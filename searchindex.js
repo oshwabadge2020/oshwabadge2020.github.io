@@ -1,1 +1,1 @@
-Search.setIndex({docnames:["docs"],envversion:50,filenames:["docs.rst"],objects:{},objnames:{},objtypes:{},terms:{test:0},titles:["The Badge!"],titleterms:{The:0,badg:0}})
+Search.setIndex({docnames:["docs"],envversion:50,filenames:["docs.rst"],objects:{},objnames:{},objtypes:{},terms:{along:0,bieng:0,design:0,detail:0,fruther:0,get:0,here:0,more:0,post:0,still:0,when:0},titles:["The Badge!"],titleterms:{The:0,badg:0}})
