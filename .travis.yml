@@ -1,0 +1,19 @@
+language: python
+python:
+  - "2.7"
+
+sudo: false
+cache: pip
+
+install: "pip install sphinx~=1.5.3 sphinx_rtd_theme"
+script: bash build.sh
+
+deploy:
+  provider: pages
+  skip-cleanup: true
+  github-token: $GITHUB_TOKEN
+  keep-history: true
+  local-dir: build
+  target-branch: master
+  on:
+    branch: source
